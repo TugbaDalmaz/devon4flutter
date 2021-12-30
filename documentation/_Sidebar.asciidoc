@@ -1,6 +1,6 @@
 == General
 
-== flutter
+== Flutter
 
 === link:flutter.asciidoc[Introduction to Flutter]
 === link:bloc.asciidoc[BLoC]
