@@ -1,6 +1,7 @@
 == General
 
-== Flutter
+== flutter
 
 === link:flutter.asciidoc[Introduction to Flutter]
 === link:bloc.asciidoc[BLoC]
+=== link:project_structure.asciidoc[Project structure]
